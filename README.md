@@ -23,4 +23,4 @@ I'm Austin, (Pip Install Python), a full stack software engineer, content creato
 
 [![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&show_icons=true&count_private=true&theme=radical&hide=stars)](https://l.technotim.live/github)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pip-install-python&theme=dark&count_private=true&theme=radical)](https://l.technotim.live/github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pip-install-python&theme=dark&count_private=true&theme=radical)](https://github.com/pip-install-python)
