@@ -19,13 +19,16 @@ Frameworks: ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=fo
 Computers ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 # 🧑‍💻 My open source repos
+<details>
+  <summary>Project Overview</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=pip-docs&theme=radical)](https://github.com/pip-install-python/pip-docs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash-dynamic-grid-layout&theme=radical)](https://github.com/pip-install-python/dash-dynamic-grid-layout)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash-full-calendar&theme=radical)](https://github.com/pip-install-python/dash-full-calendar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash_summernote&theme=radical)](https://github.com/pip-install-python/dash_summernote)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=Dash_Discord&theme=radical)](https://github.com/pip-install-python/Dash_Discord)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash_emoji_mart&theme=radical)](https://github.com/pip-install-python/dash_emoji_mart)
+-  <kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=pip-docs&theme=radical)](https://github.com/pip-install-python/pip-docs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash-dynamic-grid-layout&theme=radical)](https://github.com/pip-install-python/dash-dynamic-grid-layout)</kbd>
+-  <kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash-full-calendar&theme=radical)](https://github.com/pip-install-python/dash-full-calendar) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash_summernote&theme=radical)](https://github.com/pip-install-python/dash_summernote)</kbd>
+-  <kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=Dash_Discord&theme=radical)](https://github.com/pip-install-python/Dash_Discord) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash_emoji_mart&theme=radical)](https://github.com/pip-install-python/dash_emoji_mart)</kbd>
+
+  
+
+</details>
 
 # 📊 My Stats
 
