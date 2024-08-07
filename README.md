@@ -8,7 +8,9 @@
 
 # 👋 Hi!
 
-I'm Austin, (Pip Install Python), a full stack software engineer, content creator, and a datascience enthusiast. I really enjoy building open source software, creating and contributing to communities, teaching others through video content, and helping others via chat.
+I'm Austin, @Pip Install Python, a full stack software engineer, content creator, and a datascience enthusiast. I really enjoy building open source software, creating and contributing to communities, teaching others through video content with the goal of innovating learning something new every day and designing a path forward for the future of Ai Pirates, Packages and Python. Dash and Django are two of my favorite backend frameworks to build within at the moment react is amazing in my eyes. Know an extensive list of other languages and stacks but the jist is I started my early years growing up on a small town by the bay, moved to the Bay Area CA with big dreams during the initial run of Bitoin. Jumped into algorythmic trading, built a respirator mask company prior to Covid and found myself in the moment. Just swimming in a digital ocean you=🦐🐟🐠🐡🦑🦈🐋🎣\nprint(you[::-1]) for opportunite. 
+
+Check out some of the components I've built for dash: https://pip-install-python.com/
 
 # 🧑‍💻 My open source repos
 
@@ -21,6 +23,6 @@ I'm Austin, (Pip Install Python), a full stack software engineer, content creato
 
 # 📊 My Stats
 
-[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&show_icons=true&count_private=true&theme=radical&hide=stars)](https://l.technotim.live/github)
+[![Pip Install Python github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&show_icons=true&count_private=true&theme=radical&hide=stars)](https://geomapindex.com/github/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pip-install-python&theme=dark&count_private=true&theme=radical)](https://github.com/pip-install-python)
