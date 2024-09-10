@@ -17,7 +17,7 @@ https://pip-install-python.com/
   <summary>Programming Stack 👀</summary>
 
 -  <kbd>Languages:
--  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</kbd>
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</kbd>
 
 -  <kbd>Frameworks:
 -  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -36,20 +36,9 @@ https://pip-install-python.com/
 -  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)</kbd>
 </details>
 
-# 🧑‍💻 My open source repos
-<details>
-  <summary>Project Overview 🚀</summary>
-
--  <kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=pip-docs&theme=radical)](https://github.com/pip-install-python/pip-docs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash-dynamic-grid-layout&theme=radical)](https://github.com/pip-install-python/dash-dynamic-grid-layout)</kbd>
--  <kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash-full-calendar&theme=radical)](https://github.com/pip-install-python/dash-full-calendar) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash_summernote&theme=radical)](https://github.com/pip-install-python/dash_summernote)</kbd>
--  <kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=Dash_Discord&theme=radical)](https://github.com/pip-install-python/Dash_Discord) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pip-install-python&repo=dash_emoji_mart&theme=radical)](https://github.com/pip-install-python/dash_emoji_mart)</kbd>
-
-  
-
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-install-python\&layout=compact&theme=radical&hide=stars)
 
 # 📊 My Stats
 
-[![Pip Install Python github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&show_icons=true&count_private=true&theme=radical&hide=stars)](https://geomapindex.com/github/)
-
+[![Pip Install Python github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&rank_icon=github&show_icons=true&count_private=true&theme=radical&hide=stars)](https://geomapindex.com/github/)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pip-install-python&theme=dark&count_private=true&theme=radical)](https://github.com/pip-install-python)
