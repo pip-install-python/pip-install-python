@@ -13,6 +13,9 @@ I'm Austin, @Pip Install Python, a full stack software engineer, content creator
 Check out some of the components I've built for dash:
 https://pip-install-python.com/
 
+Are My Apps Online?:
+https://stats.uptimerobot.com/fAFR5pF7Y3
+
 <details>
   <summary>Programming Stack 👀</summary>
 
