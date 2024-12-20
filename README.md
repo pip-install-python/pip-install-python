@@ -39,11 +39,6 @@ https://stats.uptimerobot.com/fAFR5pF7Y3
 -  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)</kbd>
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-install-python\&layout=compact&theme=radical&hide=stars)
-
-# 📊 My Stats
-
-[![Pip Install Python github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&rank_icon=github&show_icons=true&count_private=true&theme=radical&hide=stars)](https://geomapindex.com/github/)
 <table>
   <tr>
     <td>
@@ -81,3 +76,11 @@ https://stats.uptimerobot.com/fAFR5pF7Y3
     </td>
   </tr>
 </table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-install-python\&layout=compact&theme=radical&hide=stars)
+
+
+# 📊 My Stats
+
+[![Pip Install Python github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&rank_icon=github&show_icons=true&count_private=true&theme=radical&hide=stars)](https://geomapindex.com/github/)
+
