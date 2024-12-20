@@ -44,4 +44,40 @@ https://stats.uptimerobot.com/fAFR5pF7Y3
 # 📊 My Stats
 
 [![Pip Install Python github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&rank_icon=github&show_icons=true&count_private=true&theme=radical&hide=stars)](https://geomapindex.com/github/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pip-install-python&theme=dark&count_private=true&theme=radical)](https://github.com/pip-install-python)
+<table>
+  <tr>
+    <td>
+      🌳 Preferred
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="35"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35"></code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌾 Second choice
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="35"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="35"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="35"></code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌿 Framework
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code><img height="35" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
+      <code><img height="35" src="https://iconape.com/wp-content/files/lw/352582/png/flask-logo.png"></code>
+      <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+    </td>
+  </tr>
+</table>
