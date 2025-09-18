@@ -13,6 +13,9 @@ I'm Austin, @Pip Install Python, a full stack software engineer, content creator
 Check out some of the components I've built for dash:
 https://pip-install-python.com/
 
+Jump into my own software development store:
+https://plotly.pro
+
 Are My Apps Online?:
 https://stats.uptimerobot.com/fAFR5pF7Y3
 
@@ -76,11 +79,4 @@ https://stats.uptimerobot.com/fAFR5pF7Y3
     </td>
   </tr>
 </table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-install-python\&layout=compact&theme=radical&hide=stars)
-
-
-# 📊 My Stats
-
-[![Pip Install Python github stats](https://github-readme-stats.vercel.app/api?username=pip-install-python&rank_icon=github&show_icons=true&count_private=true&theme=radical&hide=stars)](https://geomapindex.com/github/)
 
