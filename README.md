@@ -16,6 +16,9 @@ https://pip-install-python.com/
 Jump into my own software development store:
 https://plotly.pro
 
+*New* Ai Agent Whiteboard:
+https://ai-agent.buzz
+
 Are My Apps Online?:
 https://stats.uptimerobot.com/fAFR5pF7Y3
 
