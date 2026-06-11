@@ -14,9 +14,12 @@ Check out some of the components I've built for dash:
 https://pip-install-python.com/
 
 Jump into my own software development store:
-https://plotly.pro
+https://piratesbargain.com
 
-*New* Ai Agent Whiteboard:
+Ai Agent - Petri Dish:
+https://2plot.ai
+
+Ai Agent Whiteboard:
 https://ai-agent.buzz
 
 Are My Apps Online?:
